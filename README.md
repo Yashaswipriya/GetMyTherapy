@@ -40,4 +40,4 @@ Grow My Therapy is a modern, responsive website built for a psychological servic
 - **FAQ**: Accordion-style frequently asked questions
 - **Testimonials**: Client feedback carousel
 - **Contact**: Form and contact info with address
-- 
+  
