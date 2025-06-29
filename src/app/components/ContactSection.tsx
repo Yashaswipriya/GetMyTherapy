@@ -9,7 +9,7 @@ export default function ContactSection() {
         <div className="space-y-6">
           <h2 className="text-3xl font-semibold text-[#072c27]">Get in Touch</h2>
           <p className="text-gray-700 text-md">
-            Reach out to Dr. Serena Blake for appointments, inquiries, or general questions. Whether you're looking to start therapy or simply need more information, we're here to help.
+            Reach out to Dr. Serena Blake for appointments, inquiries, or general questions. Whether you&rsquo;re looking to start therapy or simply need more information, we&rsquo;re here to help.
           </p>
 
           <div className="text-sm space-y-4 text-gray-800">

@@ -21,7 +21,7 @@ const services = [
   {
     title: 'Trauma Recovery',
     description:
-      "Recovering from trauma is not about “getting over it”; it’s about healing at your own pace in a space where you feel safe and supported. We use trauma-informed, evidence-based therapy to help you rebuild trust and regain your sense of safety and resilience.You're not alone, we're here to walk with you every step of the way,, offering compassion, understanding, and tools to help you feel whole again.",
+      "Recovering from trauma is not about “getting over it”; it’s about healing at your own pace in a space where you feel safe and supported. We use trauma-informed, evidence-based therapy to help you rebuild trust and regain your sense of safety and resilience.You’re not alone, we’re here to walk with you every step of the way, offering compassion, understanding, and tools to help you feel whole again.",
     animation: traumaAnimation,
   },
 ];
