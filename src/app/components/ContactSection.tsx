@@ -49,33 +49,33 @@ export default function ContactSection() {
         <form className="space-y-5">
           <div>
             <label className="block font-medium text-[#072c27] mb-1">Name</label>
-            <input type="text" className="w-full border border-gray-500 rounded-md px-4 py-2 placeholder-gray-400" placeholder="Your Name" />
+            <input type="text" className="w-full border border-gray-500 rounded-md px-4 py-2 placeholder-gray-400 text-black" placeholder="Your Name" />
           </div>
 
           <div>
             <label className="block font-medium text-[#072c27] mb-1">Email</label>
-            <input type="email" className="w-full border border-gray-500 rounded-md px-4 py-2 placeholder-gray-400" placeholder="you@example.com" />
+            <input type="email" className="w-full border border-gray-500 rounded-md px-4 py-2 placeholder-gray-400 text-black" placeholder="you@example.com" />
           </div>
 
           <div>
             <label className="block font-medium text-[#072c27] mb-1">Phone</label>
-            <input type="text" className="w-full border border-gray-500 rounded-md px-4 py-2 placeholder-gray-400" placeholder="(555) 234-5678" />
+            <input type="text" className="w-full border border-gray-500 rounded-md px-4 py-2 placeholder-gray-400 text-black" placeholder="(555) 234-5678" />
           </div>
 
           <div>
             <label className="block font-medium text-[#072c27] mb-1">Message</label>
-            <textarea className="w-full border border-gray-500 rounded-md px-4 py-2 placeholder-gray-400" placeholder="How can I help you?" rows={3}></textarea>
+            <textarea className="w-full border border-gray-500 rounded-md px-4 py-2 placeholder-gray-400 text-black" placeholder="How can I help you?" rows={3}></textarea>
           </div>
 
           <div>
             <label className="block font-medium text-[#072c27] mb-1">Preferred Contact Time</label>
-            <input type="text" className="w-full border border-gray-500 rounded-md px-4 py-2 placeholder-gray-400" placeholder="e.g. Mornings, Evenings" />
+            <input type="text" className="w-full border border-gray-500 rounded-md px-4 py-2 placeholder-gray-400 text-black" placeholder="e.g. Mornings, Evenings" />
           </div>
 
           <div>
              <label className="block font-medium text-[#072c27] mb-1">Preferred Contact Method</label>
                 <select
-                    className="w-full border border-gray-500 rounded-md px-4 py-2 text-gray-400"
+                    className="w-full border border-gray-500 rounded-md px-4 py-2 text-black"
                     defaultValue=""
                 >
                     <option value="" disabled hidden className="text-gray-600">
