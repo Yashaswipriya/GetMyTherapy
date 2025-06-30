@@ -1,6 +1,6 @@
-'use client';
-import Image from 'next/image';
-import { motion } from 'framer-motion';
+'use client'
+import Image from 'next/image'
+import { motion } from 'framer-motion'
 
 const services = [
   {
@@ -31,14 +31,14 @@ export default function ServicesSection() {
       </h2>
 
       <div className="grid md:grid-cols-3 gap-12">
-        {services.map((service, index) => (
+        {services.map((service, idx) => (
           <motion.div
-            key={index}
+            key={idx}
             className="flex flex-col items-center text-center px-4"
-            initial={{ opacity: 0, y: 30 }}
+            initial={{ opacity: 0, y: 40 }}
             whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6, delay: index * 0.2 }}
-            viewport={{ once: true }}
+            transition={{ duration: 0.6, delay: idx * 0.2 }}
+            viewport={{ once: true, amount: 0.3 }}
           >
             <Image
               src={service.image}
@@ -55,7 +55,7 @@ export default function ServicesSection() {
         ))}
       </div>
     </section>
-  );
+  )
 }
 
 
