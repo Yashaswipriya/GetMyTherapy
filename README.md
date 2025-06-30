@@ -4,7 +4,7 @@ Grow My Therapy is a modern, responsive website built for a psychological servic
 
 ## 🧠 Live Demo
 
-[Click here to view the live site](https://get-my-therapy-llbevdgwp-yashaswipriyas-projects.vercel.app/)
+[Click here to view the live site](https://get-my-therapy-rmleptcih-yashaswipriyas-projects.vercel.app/)
 
 ---
 
@@ -25,7 +25,7 @@ Grow My Therapy is a modern, responsive website built for a psychological servic
 
 - **Framework**: [Next.js 14](https://nextjs.org)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com)
-- **Animation**: [Framer Motion](https://www.framer.com/motion/), [lottie-react](https://www.npmjs.com/package/lottie-react)
+- **Animation**: [Framer Motion](https://www.framer.com/motion/)
 - **Font Families**: Poppins, Ubuntu, EB Garamond (via Google Fonts)
 - **Deployment**: [Vercel](https://vercel.com)
 
@@ -36,7 +36,7 @@ Grow My Therapy is a modern, responsive website built for a psychological servic
 - **Hero**: Calming entry point with call to action
 - **Meet Dr. Blake**: Therapist introduction with image and bio
 - **Why Us**: Unique selling points and animated stat cards
-- **Services**: Overview of therapy types offered, each with icon/animation
+- **Services**: Overview of therapy types offered, each with image
 - **FAQ**: Accordion-style frequently asked questions
 - **Testimonials**: Client feedback carousel
 - **Contact**: Form and contact info with address
