@@ -30,7 +30,7 @@ export default function FaqSection() {
 
   return (
     <section id="faq" className=" mx-auto px-4 py-10 bg-[#dfd7d0] w-full scroll-mt-20">
-      <h2 className="text-3xl font-bold text-center text-[#072c27] mb-8">FAQs</h2>
+      <h2 className="text-3xl font-bold text-center text-[#072c27] mb-8">Frequently Asked Questions</h2>
       <div className="space-y-4">
         {faqs.map((faq, i) => (
           <div key={i} className="border-b border-gray-600 pb-4">
