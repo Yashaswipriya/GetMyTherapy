@@ -13,7 +13,7 @@ const services = [
     title: 'Relationship Counseling',
     description:
       "Healthy relationships are built on understanding, trust, and communication. Yet, even the strongest bonds can encounter periods of distance, miscommunication, or unresolved tension. Our counseling services support both couples and individuals in navigating these challenges with compassion and clarity. We help uncover underlying patterns, strengthen emotional connection, and develop healthier ways to express needs and handle conflict.",
-    image: '/relationship.avif',
+    image: '/Relationship.avif',
   },
   {
     title: 'Trauma Recovery',
