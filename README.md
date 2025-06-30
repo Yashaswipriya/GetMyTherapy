@@ -4,7 +4,7 @@ Grow My Therapy is a modern, responsive website built for a psychological servic
 
 ## 🧠 Live Demo
 
-[Click here to view the live site](https://get-my-therapy-rmleptcih-yashaswipriyas-projects.vercel.app/)
+[Click here to view the live site](https://get-my-therapy.vercel.app/)
 
 ---
 
